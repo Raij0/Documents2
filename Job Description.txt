@@ -1,0 +1,63 @@
+Ryan Joseph G. Jimenez
+1238 Dearborn St. Parkplace, Cainta, Rizal
+Mobile No:  09778222131
+Email Address: ryjo.jimenez@gmail.com
+
+
+-----------------------------------------------Qualifications Summary----------------------------------------------------
+-With almost 7 years experience in Software development of a Financial Business Application (Credit Card).
+-Demonstrates a good balance of business understanding and technical skills.
+-Has the ability to explain technical issues in a way that non-technical users will understand.
+-Proficient in creating Technical documents and Training materials.
+-Strong Customer Focused background.
+-Extensive knowledge and experience in SDLC.
+-Provided user training for staffs that now run the live Business Application for 5 and 3 years in 2 countries.
+-Provided Go-Live support and Operations transition activities for 2 Business Applications that went live in 2 countries.
+-With years of experience supporting 2 live Business Application (Credit Card System) used by affiliates in 2 countries.
+
+-----------------------------------------------Relevant Skills---------------------------------------------------------------------
+
+< Application Maintenance and Support Roles>
+-Responds to inquiries, issues and other concerns raised by users about the use of business applications and operations.
+-Manages issues raised by business application users (logging, assigning to team members, escalation to appropriate teams and documenting of resolution).
+-Creates How-to's, Quick reference guides, FAQS and other documentation that can be used to identify and resolve business application issues.
+-Guide users on how to use business applications.
+-Create ad hoc reports and queries as requested by business application users.
+-Perform Data Patching as necessary to rectify errors in Data due to bugs or incorrect operations.
+-Creates technical documentations and presentations used for training.
+-Conduct training sessions and knowledge transfer activities for internal and external stakeholders.
+-Provide On-call and standby support upon request by clients during major business processes.
+
+<Management Roles>
+-Creates effort estimates for business application enhancements based on Internal cost estimation models.
+-Assigns workload to team members based on defined processes and job roles.
+-Ensure that team members adhere to established work processes and produce necessary output deliverables.
+-Liaise with clients to identify work priorities and ensure these priorites are met.
+-Facilitates weekly client meetings for work updates and clarifications.
+
+<Quality Assurance Roles>
+-Creates test cases for business application enhancements and bug fixes.
+-Creates applicable test data and prepares test environment suitable for testing.
+-Execute application testing and test results documentation.
+-Provide support in User Acceptance and Pilot tests before production release.
+
+<Business/ System Analyst Roles>
+-Elicit and document requirements for business application enhancements from stakeholders.
+-Analyzes business application enhancement requests and determine how the business application can be developed to satisfy stakeholder needs.
+-Create Basic design based on requirements elicited from Stakeholders.
+-Create process flows, diagrams and use cases to document and illustrate Business Application functions and processes.
+-Uses industry and business application knowledge and experience to recommend the best solution or enhancement for a business need.
+
+-----------------------------------------------Work History---------------------------------------------------------------------
+-Aeon Credit Service Systems (Philippines Inc.) - Senior Software Consultant I - July 2018 - Present
+-Aeon Credit Service Systems (Philippines Inc.) - Software Consultant - July 2015 - July 2018
+-Aeon Credit Service Systems (Philippines Inc.) - Senior Software Engineer - April 1, 2014 - June 30, 2015
+-Aeon Credit Service Systems (Philippines Inc.)  - Software Engineer - March 1,  2013 - March 31, 2014
+-Aeon Credit Service Systems (Philippines Inc.)  - Junior Software Engineer - March 1, 2012 - March 1, 2013
+-Aeon Credit Service Systems (Philippines Inc.)  - Associate Software Engineer - August 31, 2011 - February 27, 2012
+-Accenture Inc. - Data Processing Associate -  August 2011 - December 2012
+-EPLDT Ventus (now SPI GLobal) -  Technical Support Representative - Dec 2009 - June 2011
+
+-----------------------------------------------Education---------------------------------------------------------------------------
+-University of San Agustin, Iloilo City, Philippines.
+Bachelor of Science in Information Technology
