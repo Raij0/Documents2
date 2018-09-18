@@ -1,0 +1,194 @@
+Ryan Joseph G. Jimenez
+1238 Dearborn St. Parkplace Compound, Cainta, Rizal
+Mobile No:  09778222131
+Email Address: ryjo.jimenez@gmail.com
+
+-----------------------------------------------Qualifications Summary----------------------------------------------------
+-With over 7 years experience in Software development of a Financial Business Application (Credit Card System).
+-Demonstrates a good balance of business understanding and technical skills.
+-Has the ability to explain technical issues in a way that non-technical users will understand.
+-Proficient in creating Technical documents and Training materials.
+-Strong Customer Focused background.
+-Extensive knowledge and experience in SDLC.
+-Provided user training for staffs that now run the live Business Application for 5 and 3 years in 2 countries.
+-Provided Go-Live support and Operations transition activities for 2 Business Applications that went live in 2 countries.
+-With years of experience supporting 2 live Business Applications (Credit Card System) used by affiliates in 2 countries.
+
+-----------------------------------------------Work History---------------------------------------------------------------------
+
+=============Aeon Credit Service Systems (Philippines Inc.) - Senior Software Consultant I - July 2018 - Present
+< Application Maintenance and Support Roles>
+-Responds to inquiries, issues and other concerns raised by users about the use of business applications and operations.
+-Manages issues raised by business application users (logging, assigning to team members, escalation to appropriate teams and documenting of resolution).
+-Creates How-to's, Quick reference guides, FAQS and other documentation that can be used to resolve business application issues.
+-Guide users on how to use business applications.
+-Create ad hoc reports and queries as requested by business application users.
+-Perform Data Patching as necessary to rectify errors in Data due to bugs or incorrect operations.
+-Creates technical documentations and presentations used for training.
+-Conduct training sessions and knowledge transfer activities for internal and external stakeholders.
+-Provide On-call and standby support upon request by clients during major business processes.
+
+<Management Roles>
+Leads a team of 3 members.
+Creates effort estimates for business application enhancements based on Internal cost estimation models.
+Assigns workload to team members based on defined processes and job roles.
+Ensure that team members adhere to established work processes and produce necessary output deliverables.
+Liaise with clients to identify work priorities and ensure these priorites are met.
+Facilitates client meetings for work updates and clarifications.
+
+<Quality Assurance Roles>
+-Creates test cases for business application enhancements and bug fixes.
+-Creates applicable test data and prepares test environment suitable for testing.
+-Execute application testing and test results documentation.
+-Provide support in User Acceptance and Pilot tests before production release.
+
+<Business/ System Analyst Roles>
+-Elicit and document requirements for business application enhancements from stakeholders.
+-Analyzes business application enhancement requests and determine how the business application can be developed to satisfy stakeholder needs.
+-Create Basic designs translating stakeholder requirements into technical requirements.
+-Create process flows, diagrams and use cases to document and illustrate Business Application functions and processes.
+-Uses industry and business application knowledge and experience to recommend the best solution or enhancement for a business need.
+
+Projects Handled:
+--AEON Specialized Bank Cambodia Credit Card Systems Maintenance and Support (offsite and onsite).
+--AEON Specialized Bank Cambodia VISA Acquiring System Development.
+--AEON Specialized Bank Cambodia mVISA System Development.
+--AEON Specialized Bank Cambodia mVISA Maintenance and Support (offsite).
+--AEON Specialized Bank Cambodia MasterCard Acquiring and Issuing System Development.
+--AEON Specialized Bank Cambodia EDC On-Us System Development.
+
+=============Aeon Credit Service Systems (Philippines Inc.) - Software Consultant - July 2015 - July 2018	
+< Application Maintenance and Support Roles>
+-Responds to inquiries, issues and other concerns raised by users about the use of business applications and operations.
+-Manages issues raised by business application users (logging, assigning to team members, escalation to appropriate teams and documenting of resolution).
+-Creates How-to's, Quick reference guides, FAQS and other documentation that can be used to resolve business application issues.
+-Guide users on how to use business applications.
+-Create ad hoc reports and queries as requested by business application users.
+-Perform Data Patching as necessary to rectify errors in Data due to bugs or incorrect operations.
+-Creates technical documentations and presentations used for training.
+-Conduct training sessions and knowledge transfer activities for internal and external stakeholders.
+-Provide On-call and standby support upon request by clients during major business processes.	
+
+<Business/ System Analyst Roles>
+-Elicit and document requirements for business application enhancements from stakeholders.
+-Analyzes business application enhancement requests and determine how the business application can be developed to satisfy stakeholder needs.
+-Create Basic designs translating stakeholder requirements into technical requirements.
+-Create process flows, diagrams and use cases to document and illustrate Business Application functions and processes.
+-Uses industry and business application knowledge and experience to recommend the best solution or enhancement for a business need.
+
+<Quality Assurance Roles>
+-Creates test cases for business application enhancements and bug fixes.
+-Lead in-house Credit Card System's Internal ISO Task Team.
+-Creates applicable test data and prepares test environment suitable for testing.
+-Execute application testing and test results documentation.
+-Maintain the Credit Card Systems Department's  quality management system and standards.
+-Design processes and solutions within the Credit Card Systems Department to attain established quality and productivity objectives.
+-Establish standards and best practice to support project deliverables and initiatives.
+
+Projects Handled:
+--AEON Specialized Bank Cambodia Credit Card Systems Maintenance and Support (offsite and onsite)
+--Internal Accounting System Computerization.
+--AEON Specialized Bank Cambodia VISA Acquiring System Development.
+--AEON Specialized Bank Cambodia mVISA System Development.
+--AEON Specialized Bank Cambodia MasterCard Acquiring and Issuing System Development.
+--AEON Specialized Bank Cambodia EDC On-Us System Development.
+
+=============Aeon Credit Service Systems (Philippines Inc.) - Senior Software Engineer - April 1, 2014 - June 30, 2015
+< Application Maintenance and Support Roles>
+-Responds to inquiries, issues and other concerns raised by users about the use of business applications and operations.
+-Manages issues raised by business application users (logging, assigning to team members, escalation to appropriate teams and documenting of resolution).
+-Creates How-to's, Quick reference guides, FAQS and other documentation that can be used to resolve business application issues.
+-Guide users on how to use business applications.
+-Create ad hoc reports and queries as requested by business application users.
+-Perform Data Patching as necessary to rectify errors in Data due to bugs or incorrect operations.
+-Creates technical documentations and presentations used for training.
+-Conduct training sessions and knowledge transfer activities for internal and external stakeholders.
+-Provide On-call and standby support upon request by clients during major business processes.
+
+<Business/ System Analyst Roles>
+-Analyzes business application enhancement requests and determine how the business application can be developed to satisfy stakeholder needs.
+-Create Basic designs translating stakeholder requirements into technical requirements.
+-Create process flows, diagrams and use cases to document and illustrate Business Application functions and processes.
+
+<Quality Assurance Roles>
+-Lead Department's Internal ISO Task Team.
+-Maintain the Credit Card Systems Department's  quality management system and standards					
+-Design processes and solutions within the Credit Card Systems Department to attain established quality and productivity objectives.	
+-Establish standards and best practice to support project deliverables and initiatives.	
+-Identify opportunities to implement continuous improvement within the  Credit Card Systems Department.
+
+Projects Handled:
+--AEON Specialized Bank Cambodia Credit Card Systems Maintenance and Support (offsite and onsite).
+
+=============Aeon Credit Service Systems (Philippines Inc.)  - Software Engineer - March 1, 2012 - March 31, 2014
+< Application Maintenance and Support Roles>
+-Responds to inquiries, issues and other concerns raised by users about the use of business applications and operations.
+-Manages issues raised by business application users (logging, assigning to team members, escalation to appropriate teams and documenting of resolution).
+-Creates How-to's, Quick reference guides, FAQS and other documentation that can be used to resolve business application issues.
+-Guide users on how to use business applications.
+-Create ad hoc reports and queries as requested by business application users.
+-Perform Data Patching as necessary to rectify errors in Data due to bugs or incorrect operations.
+-Creates technical documentations and presentations used for training.
+-Conduct training sessions and knowledge transfer activities for internal and external stakeholders.
+-Provide On-call and standby support upon request by clients during major business processes.
+								
+<Quality Assurance Roles>
+--Created test cases for business application enhancements and bug fixes.
+--Created applicable test data and prepares test environment suitable for testing.
+--Executed application testing and created test results documentation.
+
+Projects Handled:
+--PT. 힠N Credit Service Indonesia Credit Card Systems Maintenance and Support (onsite and offsite).
+--AEON Specialized Bank Cambodia VISA Issuing Systems Development (offsite).
+--힠N Credit Service (Philippines) Inc. IVR System (offsite).
+--Internal ISO 9001 Initiative.
+
+=============Aeon Credit Service Systems (Philippines Inc.)  - Associate Software Engineer - August 31, 2011 - February 27, 2012
+<Software Programming Roles>
+--Developed RPG Programs for 2 modules in Financial business application.
+
+<Quality Assurance Roles>
+--Created test cases for business application enhancements and bug fixes.
+--Created applicable test data and prepares test environment suitable for testing.
+--Executed application testing and created test results documentation.
+
+Projects Handled:
+--PT. 힠N Credit Service Indonesia VISA Issuing System Development (onsite and offsite)
+--PT. 힠N Credit Service Indonesia Credit Card System Maintenance and Support (onsite and offsite)
+									
+=============Accenture Inc. - Data Processing Associate -  August 2011 - December 2012
+< Application Maintenance and Support Roles>
+--Perform data entry and research in various systems and tracking tools.
+--Assess and resolve non-standard and standard issues or problems.
+
+=============EPLDT Ventus (now SPI GLobal) -  Technical Support Representative - Dec 2009 - June 2011
+< Application Maintenance and Support Roles>
+--Responds to inquiries, issues and other concerns raised by users about the use of business applications and operations.
+--Provide assistance to technical and hardware related queries using existing knowledge management tools.
+--Manages issues raised by business application users (logging, escalation to appropriate tiers or teams and documenting of resolution).
+
+-----------------------------------------------Education---------------------------------------------------------------------------
+
+-University of San Agustin, Iloilo City, Philippines
+Bachelor of Science in Information Technology
+
+-----------------------------------------------Technologies Used----------------------------------------------------------------
+--IBM i Series (AS/400), RPG400, SQL400, QRY400
+--MS Windows 
+--MS Office
+--Redmine
+--SAP Business One
+
+-----------------------------------------------References---------------------------------------------------------------------------
+Faylenne Jaurigue 
+AEON Credit Service Systems (Philippines) Inc. Project Manager / Managing Software Consultant I
++63 917 837 2286 / fay_jaurigue@yahoo.com
+
+Jerome Alabat
+AEON Credit Service Systems (Philippines) Inc. Former Department Manager  
++63 917 509 1900  / nvalley2@gmail.com 
+
+Jhoycee O. Cruz
+AEON Credit Service Systems (Philippines) Inc. Former Accounts Manager / Managing Software Consultant II
++63 947 899 9874 / chiecruz1021@gmail.com 
+

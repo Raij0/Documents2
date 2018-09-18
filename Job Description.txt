@@ -4,8 +4,8 @@ Mobile No:  09778222131
 Email Address: ryjo.jimenez@gmail.com
 
 
------------------------------------------------Qualifications Summary----------------------------------------------------
--With almost 7 years experience in Software development of a Financial Business Application (Credit Card).
+-----------------------------------------------Qualifications/ Skills Summary----------------------------------------------------
+-With over 7 years experience in Software development of a Financial Business Application (Credit Card System).
 -Demonstrates a good balance of business understanding and technical skills.
 -Has the ability to explain technical issues in a way that non-technical users will understand.
 -Proficient in creating Technical documents and Training materials.
@@ -13,7 +13,7 @@ Email Address: ryjo.jimenez@gmail.com
 -Extensive knowledge and experience in SDLC.
 -Provided user training for staffs that now run the live Business Application for 5 and 3 years in 2 countries.
 -Provided Go-Live support and Operations transition activities for 2 Business Applications that went live in 2 countries.
--With years of experience supporting 2 live Business Application (Credit Card System) used by affiliates in 2 countries.
+-With years of experience supporting 2 live Business Applications (Credit Card System) used by affiliates in 2 countries.
 
 -----------------------------------------------Relevant Skills---------------------------------------------------------------------
 
@@ -29,11 +29,12 @@ Email Address: ryjo.jimenez@gmail.com
 -Provide On-call and standby support upon request by clients during major business processes.
 
 <Management Roles>
+=Leads a team of 3 members
 -Creates effort estimates for business application enhancements based on Internal cost estimation models.
 -Assigns workload to team members based on defined processes and job roles.
 -Ensure that team members adhere to established work processes and produce necessary output deliverables.
 -Liaise with clients to identify work priorities and ensure these priorites are met.
--Facilitates weekly client meetings for work updates and clarifications.
+-Facilitates client meetings for work updates and clarifications.
 
 <Quality Assurance Roles>
 -Creates test cases for business application enhancements and bug fixes.
@@ -44,7 +45,7 @@ Email Address: ryjo.jimenez@gmail.com
 <Business/ System Analyst Roles>
 -Elicit and document requirements for business application enhancements from stakeholders.
 -Analyzes business application enhancement requests and determine how the business application can be developed to satisfy stakeholder needs.
--Create Basic design based on requirements elicited from Stakeholders.
+-Create Basic designs translating stakeholder requirements into technical requirements.
 -Create process flows, diagrams and use cases to document and illustrate Business Application functions and processes.
 -Uses industry and business application knowledge and experience to recommend the best solution or enhancement for a business need.
 
@@ -61,3 +62,6 @@ Email Address: ryjo.jimenez@gmail.com
 -----------------------------------------------Education---------------------------------------------------------------------------
 -University of San Agustin, Iloilo City, Philippines.
 Bachelor of Science in Information Technology
+
+
+-----------------------------------------------Work History Roles---------------------------------------------------------------------
